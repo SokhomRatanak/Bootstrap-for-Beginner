@@ -1,0 +1,14 @@
+/**  Header **/
+.search-wrap {
+    clear: right;
+
+}
+
+.search-input {
+	text-align: right;
+}
+
+/** Nav **/
+.nav-custom > li > a {
+	text-transform: uppercase;
+}
