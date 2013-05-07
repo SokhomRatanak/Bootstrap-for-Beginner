@@ -12,3 +12,30 @@
 .nav-custom > li > a {
 	text-transform: uppercase;
 }
+input.span2 {
+
+	height: 30px
+}
+#imghead{
+	padding-top: 65px;
+
+}
+a.logo.pull-left{
+	padding-right: 10px;
+}
+
+.navbar-inner{
+border-radius:0px;
+background: #3a5899 !important; 
+background-image: none;
+background-repeat: no-repeat;
+filter: none !important;
+border-top:1px solid #3a5899!important;
+border-bottom:1px solid #3a5899 !important;
+border-left:0px !important;
+border-right:0px !important;
+}
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus{
+	color: #ffffff;
+background-color: #3a5899;
+}
